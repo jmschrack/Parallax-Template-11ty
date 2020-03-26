@@ -10,6 +10,21 @@
   },
   "author": {
     "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "email": "youremailaddress@example.com",
+    "phone" : "+1 555 555 5555",
+    "city" : "Anytown, USA"
+  },
+  "social" : {
+    "__deleteMe_comment":"set a social to null to hide it",
+    "__deleteMe_hideExample" : null,
+    "facebook":"https://www.facebook.com/eff/",
+    "instagram" : "https://www.instagram.com/efforg/",
+    "snapchat" : "lolsnapchat",
+    "pinterest":"generic name",
+    "twitter":"https://twitter.com/EFF",
+    "linkedin":"https://www.linkedin.com/company/electronic-frontier-foundation"
+
   }
 }
+
+
